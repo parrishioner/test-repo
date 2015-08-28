@@ -1,4 +1,5 @@
 p {
   font-size: 14px;
   font-color: #000;
+  white-space: nowrap;
 }
